@@ -1,6 +1,6 @@
 ---
 title: "Smart Watering System"
-excerpt: "ESP32-based IoT system for automated plant watering.>"
+excerpt: "ESP32-based IoT system for automated plant watering."
 collection: portfolio
 ---
 

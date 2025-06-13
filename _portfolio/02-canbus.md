@@ -1,6 +1,6 @@
 ---
 title: "CAN Bus Communication System"
-excerpt: "Building custom CAN Bus communication modules for embedded devices.>"
+excerpt: "Building custom CAN Bus communication modules for embedded devices."
 collection: portfolio
 ---
 

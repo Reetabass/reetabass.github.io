@@ -24,11 +24,12 @@ repository               : "reetabass/reetabass.github.io"
 author:
   # Biographic information
   avatar           : "images/1679520833352.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Michael Basangan"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineering student focused on embedded systems and low-level C programming."
   location         : "Sydney"
-  employer         : "University of Technology Sydney"
+  employer         : "University of Technology 
+                      Sydney"
   uri              : # URL
   email            : "michael.basangan@student.uts.edu.au" 
 
