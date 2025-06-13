@@ -13,7 +13,7 @@ title                    : "reetabass"
 title_separator          : "-"
 name                     : &name "Michael Reed Basangan"
 description              : &description "I am a passionate and systems-focused software engineering student with a strong foundation in low-level C programming and embedded systems. I have developed real-time microcontroller projects using AVR C and am currently building STL-style containers in C++ to understand memory management and iterator design. I thrive in environments where I can work at the hardware-software boundary and am excited to grow into a Linux kernel engineering role. I aim to contribute to open-source systems like Ubuntu while developing deep kernel expertise within a globally distributed team."
-"
+
 url                      : https://reetabass.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reetabass/reetabass.github.io"
