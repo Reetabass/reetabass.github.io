@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Michael Reed Basangan"
 author_profile: true
 ---
