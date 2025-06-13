@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Light Sensing Alarm Clock"
+excerpt: "Embedded light-sensitive alarm clock using ADC, sonar, and input capture."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Built a real-time embedded system that:
+
+- Uses ADC to read light levels
+- Activates alarm when light threshold is reached
+- Uses sonar distance measurement to silence alarm via hand wave
+- USART integration for serial debugging
+
+**Technologies:** AVR C, Timer1 Input Capture, Analog Comparator, ADC, USART
